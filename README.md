@@ -1,6 +1,6 @@
 # fypproject
 
-# create keys.json file from google cloud project 
+# create credentials.json file from google cloud project and rename to keys.json
 
 # insert google map api key at map.html
 
